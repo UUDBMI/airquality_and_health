@@ -9,9 +9,9 @@ __license__ = 'CeCILL-B'
 import matplotlib
 import matplotlib.cm as cm
 import numpy as np
-from matplotlib.patches import Rectangle, Polygon
-from matplotlib.ticker import ScalarFormatter, AutoLocator
-from matplotlib.text import Text, FontProperties
+from matplotlib.patches import Rectangle
+# from matplotlib.ticker import ScalarFormatter, AutoLocator
+# from matplotlib.text import Text, FontProperties
 from matplotlib.projections.polar import PolarAxes
 from numpy.lib.twodim_base import histogram2d
 import matplotlib.pyplot as plt
@@ -437,7 +437,7 @@ def histogram(dir, var, bins, nsector, normed=False, blowto=False):
     """
 
     if len(var) != len(dir):
-        raise ValueError, "var and dir must have same length"
+        raise (ValueError, "var and dir must have same length")
 
     angle = 360./nsector
 
