@@ -9,23 +9,23 @@ In this module we will explore the relationship between exposure to air pollutio
 In this module we will learn how to work with
 
 * Census data 
-* PM$^{2.5}$ particulate data
-* $O_3$ data
+* PM<sup>2.5</sup> particulate data
+* O<sub>3</sub> data
 * Shape files
 
 ## Visualization Techniques
 
 In this module we will learn how to 
 
-* Overlay census data on maps
-* Use Seaborn to visualize statistical models
-* Use Bqplot to create interactive visualizations
+* Overlay census data on maps using [folium]()
+* Use [Seaborn](https://seaborn.pydata.org/) to visualize statistical models
+* Use [Bqplot](https://github.com/bloomberg/bqplot) to create interactive visualizations
 
 ## Analysis Techniques
 
 In this module we will learn how to
 
-* Build linear models with [statsmodels]()
+* Build linear models with [statsmodels](https://www.statsmodels.org/stable/index.html)
 
 ## Authors
 
