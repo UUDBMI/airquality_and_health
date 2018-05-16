@@ -1,0 +1,25 @@
+version: '3'
+services:
+  jupyter:
+    build: jupyter
+    ports:
+      - "8990:8888"
+    environment:
+      - PASSWORD=bmi6950
+      - USE_HTTPS=yes
+    volumes:
+      - /Users/brian/Documents/UUDS4HealthData/Data:/home/jovyan/DATA:ro
+      - /Users/brian/Code/:/home/jovyan/work
+#  myorient:
+#      image: orientdb:latest
+#      ports:
+#          - 2480:2480
+#          - 2424:2424
+#      environment:
+#          - ORIENTDB_ROOT_PASSWORD=root
+#  myneo4j:
+#      image: neo4j:latest
+#      ports: 
+#          - 7474:7474
+#          - 7687:7687
+
