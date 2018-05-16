@@ -42,3 +42,9 @@ Because of its geography, the Salt Lake Valley, similar to many other valleys in
 ## [Air Pollution and Adverse Pregnancy Outcomes](./pregnacy_outcomes/README.md)
 
 ## [Social Justice and Air Polluiton](./social_justice/README.md)
+
+## Air Pollution in the News
+
+* [Science Friday](https://www.sciencefriday.com/articles/utahs-winter-haze-a-pollution-problem/)
+* [Utah ranks among U.S. states with highest rates of lung cancer caused by air pollution, report says](https://www.sltrib.com/news/environment/2018/04/16/utah-ranks-among-us-states-with-highest-rates-of-lung-cancer-caused-by-air-pollution-report-says/)
+* [Utah’s ozone pollution is getting worse despite progress on other fronts, American Lung Association says](https://www.sltrib.com/news/2018/04/18/utahs-ozone-pollution-is-getting-worse-despite-progress-on-other-fronts-american-lung-association-says/)
