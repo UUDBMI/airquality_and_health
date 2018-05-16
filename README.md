@@ -33,6 +33,12 @@ This module will expose you to the various data sources, methodologies, health e
 
 Because of its geography, the Salt Lake Valley, similar to many other valleys in the Great Basin, faces particular challenges with air quality.
 
-## Wind Patterns
+## [Health Effects of Air Pollution](./health_effects/README.md)
 
-## Inversions and Air quality
+## [Wind Patterns and Air Quality](./windrose/README.md)
+
+## [Inversions and Air quality](./inversions/README.md)
+
+## [Air Pollution and Adverse Pregnancy Outcomes](./pregnacy_outcomes/README.md)
+
+## [Social Justice and Air Polluiton](./social_justice/README.md)
