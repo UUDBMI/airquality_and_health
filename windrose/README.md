@@ -1,6 +1,6 @@
 # Quantifying the effect of Wind Patterns on Air Quality.
 
-The Salt Lake Valley has only two official EPA monitoring sites. All "official" air-quality based decisions use data from these two sites. However, air quality in the valley is highly spatial variant. One of the main sources of this variability is the wind. In this module we will explore the relationship between wind patterns and geography and how wind affects air quality. 
+The Salt Lake Valley has only two official EPA monitoring sites. All "official" air-quality based decisions use data from these two sites. However, air quality in the valley is highly spatial variant. One of the main sources of this variability is the wind. In this module we will explore the relationship between wind patterns and geography and how wind affects air quality.
 
 ## Learning objectives
 
