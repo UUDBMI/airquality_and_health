@@ -6,7 +6,6 @@ USER root
 # dependencies for spell nbextensions (including spell check) and other requirements
 
 RUN apt-get update && apt-get upgrade -y && apt-get install -y \
-      tree \
       graphviz\ 
       less \
       openssh-client \
@@ -24,6 +23,7 @@ RUN apt-get update && apt-get upgrade -y && apt-get install -y \
       binutils \
       libproj-dev \
       gdal-bin \
+      vim \
   && rm -rf /var/lib/apt/lists/*
 
 
