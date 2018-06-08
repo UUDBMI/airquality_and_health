@@ -31,20 +31,20 @@ We will use Python to view air quality data from the MesoWest API.
 
 <td align="center" valign="center">
 <a href="http://home.chpc.utah.edu/~u0035056/home/">
-<img src="https://www.atmos.utah.edu/_images/people/tenure-line-faculty/John_Horel.jpg" alt="John Horel" width="150" height="150""> </a>
+<img src="https://www.atmos.utah.edu/_images/people/tenure-line-faculty/John_Horel.jpg" alt="John Horel" width="250" height="250""> </a>
 <br />
 John Horel
 </td>
 
 <td align="center" valign="center">
 <a href="https://github.com/blaylockbk">
-<img src="https://avatars2.githubusercontent.com/u/6249613?s=400&v=4" alt="Brian Blaylock" width="150" height="150"/></a>
+<img src="https://avatars2.githubusercontent.com/u/6249613?s=400&v=4" alt="Brian Blaylock" width="250" height="250"/></a>
 <br />
 Brian Blaylock
 </td>
 <td align="center" valign="center">
 <a href="https://github.com/chapmanbe">
-<img src="../social_justice/brian_chapman.jpg" alt="Brian Chapman" width="150" height="150"/></a>
+<img src="../social_justice/brian_chapman.jpg" alt="Brian Chapman" width="250" height="250"/></a>
 <br />
 Brian Chapman
 </td>
