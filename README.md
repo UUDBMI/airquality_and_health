@@ -5,18 +5,18 @@
 <tr>
 
 <td align="center" valign="center">
-<img src="https://www.sciencefriday.com/wp-content/uploads/2014/03/IMG_0196.jpg" alt="Salt Lake Valley Inversion" style="width:300px;">
+<img src="https://www.sciencefriday.com/wp-content/uploads/2014/03/IMG_0196.jpg" alt="Salt Lake Valley Inversion" width="400" height="300">
 <br />
 </td>
 
 <td align="center" valign="center">
 <a href="https://github.com/blaylockbk">
-<img src="https://image.freepik.com/free-icon/arrow-bold-right-ios-7-symbol_318-35504.jpg" alt="to/from" style="width:150px;"/></a>
+<img src="https://image.freepik.com/free-icon/arrow-bold-right-ios-7-symbol_318-35504.jpg" alt="to/from" width="100" height="40"/></a>
 <br />
 </td>
 
 <td align="center" valign="center">
-<img src="https://farm1.staticflickr.com/735/31514621884_f75f695d32.jpg" style="width:300px;"/>
+<img src="https://farm1.staticflickr.com/735/31514621884_f75f695d32.jpg" alt="infographic" width="400" height="300"/>
 <br />
 </td>
 </tr>
