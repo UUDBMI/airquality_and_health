@@ -22,9 +22,7 @@
 
 </table>
 
-Air quality has major impact on health. In addition to agitating the respiratory system, air pollutants have effects on the cardiovascular system
-and has been linked to pre-term birth. Addressing the health effects due to air pollution has implications for both individual health care,
-population health, and public policy. In this module we will explore the various factors that influence air quality.
+Air quality has major impact on health. In addition to agitating the respiratory system, air pollutants have effects on the cardiovascular system and has been linked to pre-term birth. Addressing the health effects due to air pollution has implications for individual health care, population health, and public policy. In this module we will explore the various factors that influence air quality.
 
 This module will expose you to the various data sources, methodologies, health effects, and policies surrounding air quality.
 
@@ -36,11 +34,11 @@ Because of its geography, the Salt Lake Valley, similar to many other valleys in
 
 ## [Wind Patterns and Air Quality](./windrose/README.md)
 
-## [Inversions and Air quality](./inversions/README.md)
+## [Inversions and Air Quality](./inversions/README.md)
 
 ## [Air Pollution and Adverse Pregnancy Outcomes](./pregnacy_outcomes/README.md)
 
-## [Social Justice and Air Polluiton](./social_justice/README.md)
+## [Social Justice and Air Pollution](./social_justice/README.md)
 
 ## Air Pollution in the News
 
