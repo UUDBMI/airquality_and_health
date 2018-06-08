@@ -1,6 +1,6 @@
 # Air Quality and the Impact on Health in the Salt Lake Valley
 
-<table width="500" border="0" cellpadding="5">
+<table border="0" style="width:825px;" cellpadding="5">
 
 <tr>
 
