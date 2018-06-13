@@ -15,7 +15,7 @@
 </td>
 
 <td align="center" valign="center">
-<img src="https://www.eea.europa.eu/media/newsreleases/air-pollution-still-causing-harm/Airquality2013_Fig_11illu.png" alt="infographic" width="400" height="300"/>
+<img src="https://www.eea.europa.eu/media/newsreleases/air-pollution-still-causing-harm/Airquality2013_Fig_11illu.png" alt="infographic" width="400" height="350"/>
 <br />
 </td>
 </tr>
